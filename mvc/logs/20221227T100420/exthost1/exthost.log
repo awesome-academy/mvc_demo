@@ -1,0 +1,13 @@
+[2022-12-27 10:04:22.102] [exthost] [info] Extension host with pid 59247 started
+[2022-12-27 10:04:22.102] [exthost] [info] Skipping acquiring lock for /var/www/html/mvc/mvc/User/workspaceStorage/276d251d2d398ca3cec0c280277e4040.
+[2022-12-27 10:04:22.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-12-27 10:04:22.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-27 10:04:22.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-12-27 10:04:22.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-27 10:04:22.285] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-27 10:04:22.296] [exthost] [info] Eager extensions activated
+[2022-12-27 10:04:22.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-27 10:04:22.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-27 10:04:22.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-12-27 10:05:54.106] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-27 10:05:54.108] [exthost] [info] Extension host with pid 59247 exiting with code 0
