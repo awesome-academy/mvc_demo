@@ -6,8 +6,8 @@
 		{
 			$servername = "localhost";
 			$username = "root";
-			$password = "";
-			$dbname = "quan_li_ban_hang";
+			$password = "pw";
+			$dbname = "db_name";
 
 			// Create connection
 			$this->conn = new mysqli($servername, $username, $password, $dbname);
