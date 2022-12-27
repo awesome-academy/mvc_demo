@@ -33,5 +33,5 @@
 | email    | text                |
 | address  | text                |
 
-- Change database's info (db_name, username, password) in `models/db_connect.php`
+- Change database's info (db_name, username, password) in `models/db_connect.php` and `models/Connect.php`
 - Run project with url: `http://localhost/mvc`
